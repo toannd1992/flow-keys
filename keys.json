@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "tools": {
+    "test": {
+      "on": true
+    }
+  },
+  "keys": [
+    {
+      "id": "K001",
+      "h": "160b7bd592bcf014b6076dd6063c0a9209327ec572f417181891f4086f7457f9",
+      "tools": [
+        "test"
+      ],
+      "exp": "2026-11-15",
+      "on": true
+    },
+    {
+      "id": "K002",
+      "h": "f01053d560e48cf723a7551fba1b577c343ebd7ad680f86d17bede61759227f1",
+      "tools": [
+        "test"
+      ],
+      "exp": "2026-10-15",
+      "on": true
+    },
+    {
+      "id": "K003",
+      "h": "d508296ec39cb25a6985115dce3eb8202f72df8ddfe75567302217ec55b7116e",
+      "tools": [
+        "test"
+      ],
+      "exp": "2026-11-15",
+      "on": false
+    }
+  ],
+  "updated": "2026-10-16 20:27"
+}
